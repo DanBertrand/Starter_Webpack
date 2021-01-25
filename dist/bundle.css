@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Caveat";
+  src: url(fonts/7d8013d134e1b614cda24b5a60d8a79b.ttf);
+}
+p {
+  color: lawngreen;
+  font-family: "Caveat";
+}
+
+body {
+  background-image: url(images/6cef3d7297f8b6f24810a84ab639bff4.jpg);
+}

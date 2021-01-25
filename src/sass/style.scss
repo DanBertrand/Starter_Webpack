@@ -1,0 +1,15 @@
+$color-red: rgb(124,252,0);
+
+@font-face {
+	font-family:'Caveat';
+	src: url('../fonts/Caveat-Medium.ttf');
+}
+
+p {
+  color: $color-red;
+  font-family: "Caveat"
+}
+
+body {
+  background-image: url('../images/dan.jpg');
+}
